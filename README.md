@@ -39,12 +39,16 @@ The project requires:
 * RegionGrow.c: the C code of the region grow algorithm.
 
 ## Examples
-Here are some examples of food segmentation.
+Here are some examples of food segmentation in growing mode.
+
 ![Growing Coutour Examples][image1]
 
 ![Growing Coutour Examples][image2]
 
 ![Growing Coutour Examples][image3]
+
+Here are some examples of food segmentation in shrinking mode.
+
 
 ![Shrinking Coutour Examples][image4]
 
