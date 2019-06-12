@@ -1,0 +1,75 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  RegionGrow.c
+  main.c
+e:\onedrive\courses\ece6310\project\final_git\main.c(7): warning C4142: 'RegionColor': benign redefinition of type
+  e:\onedrive\courses\ece6310\project\final_git\globals.h(32): note: see declaration of 'RegionColor'
+e:\onedrive\courses\ece6310\project\final_git\main.c(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\onedrive\courses\ece6310\project\final_git\main.c(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\onedrive\courses\ece6310\project\final_git\main.c(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\onedrive\courses\ece6310\project\final_git\main.c(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\onedrive\courses\ece6310\project\final_git\main.c(240): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+e:\onedrive\courses\ece6310\project\final_git\main.c(338): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\onedrive\courses\ece6310\project\final_git\main.c(406): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\onedrive\courses\ece6310\project\final_git\main.c(468): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\onedrive\courses\ece6310\project\final_git\main.c(680): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  CannyEdge.c
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.h(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.h(60): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(67): warning C4133: 'function': incompatible types - from 'uint8_2d **' to 'real_2d **'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(73): warning C4133: 'function': incompatible types - from 'uint8_2d **' to 'real_2d **'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(113): warning C4133: '=': incompatible types - from 'int *' to 'float *'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(172): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(183): warning C4305: 'return': truncation from 'double' to 'float'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(185): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(238): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(338): warning C4101: 'row': unreferenced local variable
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(338): warning C4101: 'col': unreferenced local variable
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(391): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(393): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(410): warning C4098: 'non_maximum_supression': 'void' function returning a value
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(521): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(522): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(532): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(533): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(558): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(559): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(571): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(572): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(591): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(592): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(617): warning C4048: different array subscripts: 'float (*)[5]' and 'float [3][3]'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(619): warning C4048: different array subscripts: 'float (*)[5]' and 'float [3][3]'
+e:\onedrive\courses\ece6310\project\final_git\cannyedge.c(608): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ActiveContour.c
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(60): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(106): warning C4013: 'canny' undefined; assuming extern returning int
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(136): warning C4133: '=': incompatible types - from 'double *' to 'float *'
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(137): warning C4133: '=': incompatible types - from 'double *' to 'float *'
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(138): warning C4133: '=': incompatible types - from 'double *' to 'float *'
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(139): warning C4133: '=': incompatible types - from 'double *' to 'float *'
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(140): warning C4133: '=': incompatible types - from 'double *' to 'float *'
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(188): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(192): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(193): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(218): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(221): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(222): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\onedrive\courses\ece6310\project\final_git\activecontour.c(269): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+ActiveContour.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Emerge.vcxproj -> E:\OneDrive\courses\ECE6310\project\final_git\.\Debug\Emerge.exe
