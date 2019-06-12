@@ -11,7 +11,7 @@ in Clemson University.
 [image4]: ./examples/Shrink1.png
 [image5]: ./examples/Shrink2.png
 [image6]: ./examples/Shrink3.png
-[image6]: ./examples/Shrink4.png
+[image7]: ./examples/Shrink4.png
 
 ## Implementation ##
 The goal is to implement an active contour algorithm that allows a user to semi-automatically segment food items in a photograph of multiple foods on a dinner plate.
