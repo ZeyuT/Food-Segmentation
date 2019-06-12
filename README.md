@@ -41,9 +41,15 @@ The project requires:
 ## Examples
 Here are some examples of food segmentation.
 ![Growing Coutour Examples][image1]
+
 ![Growing Coutour Examples][image2]
+
 ![Growing Coutour Examples][image3]
+
 ![Shrinking Coutour Examples][image4]
+
 ![Shrinking Coutour Examples][image5]
+
 ![Shrinking Coutour Examples][image6]
+
 ![Shrinking Coutour Examples][image7]
